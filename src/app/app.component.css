@@ -1,0 +1,19 @@
+.main {
+    position:absolute;
+    top: 10%;
+    left: 20%;
+    width: 60%;
+    height:80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    padding: 2%;
+    border-radius: 10px;
+    font-weight: 500;
+
+}
+.main> button{
+    position: absolute;
+    bottom: 10%;
+}
